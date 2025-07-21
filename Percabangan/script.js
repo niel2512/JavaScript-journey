@@ -7,4 +7,4 @@ if (nama === "Niel") {
 } else {
   console.log("Nama tidak sama")
 }
-console.log("Akhir Dari Program"); //seperti blok finnaly di java yang selalu dijalankan apapun hasil setelah blok sebelumnya dijalankan
+console.log("Akhir Dari Program"); //seperti blok finally di java yang selalu dijalankan apapun hasil setelah blok sebelumnya dijalankan
